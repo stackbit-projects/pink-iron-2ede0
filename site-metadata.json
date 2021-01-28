@@ -14,7 +14,8 @@
             {
                 "label": "Features",
                 "url": "/features",
-                "style": "link"
+                "style": "link",
+                "icon": "facebook"
             },
             {
                 "label": "Pricing",
