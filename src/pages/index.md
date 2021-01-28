@@ -296,6 +296,15 @@ sections:
       - label: View All
         url: /blog
         style: primary
+      - label: lorem-ipsum
+        url: lorem-ipsum
+        style: link
+        has_icon: false
+        icon: arrow-left
+        icon_position: right
+        new_window: false
+        no_follow: false
+        type: action
     blog_feed_cols: three
     enable_cards: true
     show_recent: true
