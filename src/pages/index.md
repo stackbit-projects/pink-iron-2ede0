@@ -112,7 +112,7 @@ sections:
     align: center
     background_color: secondary
   - type: grid_section
-    title: Cards Grid Section!
+    title: Cards Grid Section o!
     subtitle: Grid Section Example
     grid_items:
       - title: Section Item 1
