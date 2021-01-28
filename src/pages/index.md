@@ -296,7 +296,7 @@ sections:
       - label: View All
         url: /blog
         style: primary
-      - label: lorem-ipsum
+      - label: aji try now
         url: lorem-ipsum
         style: link
         has_icon: false
